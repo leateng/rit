@@ -8,4 +8,5 @@ edition = "2018"
 [dependencies]
 git2 = "0.13"
 cursive = "0.16"
+syntect = "4.5"
 
